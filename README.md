@@ -2,7 +2,8 @@
 
 ## Organise a technology stack for the assignment– whatever the problem is you need certain technologies to solve it – this one needs a version control platform, text editing and desk (online research). For a better outcome a development stack too. Agree as a group a project management style and approach.
 
-- Text editing technology: LateX / Overleaf.
+- Text editing technology: LateX / Overleaf. [Overleaf](https://www.overleaf.com/project/68b171348c25df3d90ec95ff)
+- Referencing tool: Zotero.
 - Version control platform: Github.
 - Desk / project management: Miro. [Miro board](https://miro.com/app/board/uXjVJO1kyvA=/)
 
